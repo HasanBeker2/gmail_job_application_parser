@@ -1,6 +1,3 @@
-### README.md for "Gmail Job Application Parser"
-
----
 
 # Gmail Job Application Parser
 
